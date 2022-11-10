@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin:0;
+    
+}
+:root{
+    --tipoLetra:'Poppins';
+    --ColorLetra:#222864;
+    --boton-color:#ffffff;
+    --fondo-color:#0C646D;
+    --backgrnd-color:rgba(231, 239, 240, 0.3);
+    --color-text:#9093B1;
+    --bkg-sect2: #E7EFF0;
+}

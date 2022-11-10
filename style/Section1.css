@@ -1,26 +1,12 @@
-*{
-    box-sizing: border-box;
-    padding: 0;
-    margin:0;
-    
-}
-:root{
-    --tipoLetra:'Poppins';
-    --ColorLetra:#222864;
-    --boton-color:#ffffff;
-    --fondo-color:#0C646D;
-    --backgrnd-color:rgba(231, 239, 240, 0.3);
-    --color-text:#9093B1;
-}
+
 
 .encabezado{
     font-family: var(--tipoLetra);
     color: var(--ColorLetra);
-}
-.encabezado {
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: var(--backgrnd-color);
    
 }
 .header_conteiner{
@@ -92,13 +78,13 @@ border: none;
     
 }
 .imag1{
-width: 521px;
+width:521px;
 height: 643px;
 left: 799px;
 top: 269px;
 border-radius: 20px;
-margin:10px;
-padding:8px;
+margin:50px;
+
     
 }
 .title1 h1{
@@ -148,7 +134,7 @@ border: none;
 }
 .medium_bt{
 margin:80px;
-padding:30px;
+
 
 }
 .numbers_1 h3{
