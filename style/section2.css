@@ -1,4 +1,40 @@
 
 .section2{
     background-color: var(--bkg-sect2);
+
+}
+.div1{
+    margin: 50px;
+    padding-top: 54px;
+}
+.div1 div{
+    display: flex;
+    justify-content: center;   
+    margin: 30px;
+}
+.we-will{
+color: var(--ColorLetra);
+font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 65px;
+
+}
+.decora{
+    color: var(--fondo-color);
+font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 65px;
+}
+.wehelp{
+
+    font-family: var(--tipoLetra);
+    color:var(--color-text);
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
 }
