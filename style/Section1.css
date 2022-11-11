@@ -194,3 +194,12 @@ left: 521px;
 top: 874px;
 margin: 10px;
 }
+.first_Sect{
+    display: flex;
+    justify-content: space-around;
+}
+.header_conteiner{
+    display: flex;
+    justify-content: space-around;
+}
+
