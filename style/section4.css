@@ -1,0 +1,153 @@
+.sect4{
+width: 1440px;
+height: 821px;
+padding-top: 47px;
+padding-left: 120px;
+padding-right: 120px;
+}
+.divI{
+    display: flex;
+    padding-left: 415px;
+    
+      justify-content: space-around;
+      
+      gap: 0px;
+   
+
+}
+.divI1{
+    color: #0C646D;
+   
+height: 65px;
+font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 65px;
+
+}
+.divI2{
+   
+font-family: 'DM Serif Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 65px;
+height: 65px;
+color:var( --ColorLetra);
+
+
+
+}
+.divT{
+display: grid;
+
+height: 24px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+align-items: center;
+left: 517px;
+color: #9093B1;
+justify-content: center; 
+padding-bottom: 50px;
+padding-top: 14;
+}
+.imgT3 {
+    display: flex;
+    justify-content: space-around;
+
+}
+.svg{
+width: 380px;
+height: 509px;
+background: #E7EFF0;
+border-radius: 250px 250px 20px 20px;
+position: relative;
+
+
+}
+.True div{
+ width: 380px;
+
+display: flex;
+background: rgba(255, 255, 255, 0.3);
+
+backdrop-filter: blur(12px);
+flex-wrap: wrap;
+justify-content: center;
+}
+.True h5{
+    font-size: 18px;
+    color:var(--boton-color);
+    font-family: 'Poppins';
+font-style: normal;
+text-align: center;
+height: 27px;
+width: 380px;
+
+
+}
+
+.True{
+    position:fixed;
+    top:350px;
+  
+}
+.hgj{
+    position: fixed;
+    bottom: 180px;
+    
+  
+}
+/*.True h5 {
+   position: absolute;
+   bottom:500px ;
+   
+}
+.hgj{
+    position: absolute;
+    top: -380px;
+}*/
+
+
+
+
+
+.h6{
+   
+color: white;
+font-family: 'Poppins';
+font-size: 16px;
+text-align: center;
+width: 142px;
+height: 44px;
+border-radius: 30px;
+background-color: #0C646D;
+font-style: normal;
+border-style: none;
+line-height: 24px;
+font-weight: 400;
+position: relative;
+
+
+
+
+
+
+
+
+}
+.hgj{
+    display: grid;
+    width: 380px; 
+    height:44px ;
+    
+    justify-content: center;
+    align-items: center;
+background: rgba(255, 255, 255, 0.3);
+backdrop-filter: blur(12px);
+
+}
