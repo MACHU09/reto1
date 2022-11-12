@@ -1,0 +1,29 @@
+.ulf {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 40px;
+   gap:20px;
+ 
+}
+.h5f{
+    width: 84px;
+height: 27px;
+font-family: var(--tipoLetra);
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 27px;
+color: var(--ColorLetra);
+
+padding-bottom: 40px;
+
+
+}
+.footer{
+    margin: 80px 80px 20px 80px;
+}
+.flex5k{ 
+    display: flex;
+    justify-content: center;
+    color: var(--ColorLetra); 
+}
