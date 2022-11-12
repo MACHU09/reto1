@@ -17,6 +17,7 @@ padding-right: 120px;
 }
 .divI1{
     color: #0C646D;
+    position: relative;
    
 height: 65px;
 font-family: 'DM Serif Display';
@@ -35,6 +36,8 @@ font-size: 48px;
 line-height: 65px;
 height: 65px;
 color:var( --ColorLetra);
+position: absolute;
+right:  148px;
 
 
 
@@ -91,7 +94,7 @@ width: 380px;
 
 }
 
-.True{
+/*.True{
     position:fixed;
     top:350px;
   
@@ -101,7 +104,7 @@ width: 380px;
     bottom: 180px;
     
   
-}
+}*/
 /*.True h5 {
    position: absolute;
    bottom:500px ;
