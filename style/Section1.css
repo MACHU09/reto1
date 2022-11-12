@@ -1,5 +1,7 @@
 
-
+.first_Sect{
+    background-color: var(--backgrnd-color);
+}
 .encabezado{
     font-family: var(--tipoLetra);
     color: var(--ColorLetra);
@@ -201,3 +203,4 @@ margin: 10px;
 .left{
     left: 120px;
 }
+
